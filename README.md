@@ -1,5 +1,9 @@
 # Tidepool — token launch radar
 
+[![make.fun · token-radar-01](https://make.fun/badge/token-radar-01.svg)](https://make.fun/bounty/token-radar-01)
+[![Rank](https://make.fun/badge/token-radar-01/xs19940230/tidepool-token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard)
+[![Reward](https://make.fun/badge/token-radar-01/xs19940230/tidepool-token-radar/reward.svg)](https://make.fun/bounty/token-radar-01)
+
 A fully offline research desk for the official make.fun token-radar-01 snapshot. All 758 protocols receive reproducible implied values and four-step research plans. The default view shows 191 record-based candidates, including all 40 required watchlist protocols. Existing-token records and related products have separate views.
 
 ## Run
